@@ -1,1 +1,1 @@
-This repository contains solutions to nested loops
+this contains solution to nested loops and function
