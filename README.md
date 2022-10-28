@@ -1,1 +1,1 @@
-This contains solutions to Debugging task
+This repository contains solutions to low level programming task
